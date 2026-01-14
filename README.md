@@ -7,14 +7,11 @@ Data cleaning, SQL queries, exploratory analysis, and building small Python-base
 🤝 I’m looking to collaborate on
 Beginner data analysis projects, Excel dashboards, and simple visualization work.
 
-🧠 I’m looking for help with
-Improving SQL logic, Power BI dashboards, and structuring analytics workflows.
-
 🌱 I’m currently learning
-Python (Pandas, NumPy), SQL, data visualization, and Power BI basics.
+Python (Pandas, NumPy), SQL and data visualization .
 
 💬 Ask me about
-Excel functions, cleaning messy data, beginner Python, and getting started in data analytics.
+Excel functions, cleaning messy data, Python, and getting started in data analytics.
 
 ⚡ Fun fact
 I enjoy breaking down complex data and making it simple and readable.
