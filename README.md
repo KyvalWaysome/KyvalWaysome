@@ -43,7 +43,7 @@ Study/work productivity tips for beginners
 
 ⚡ Fun Fact
 
-I’m a huge football fan who also loves tech, anime, and learning new skills every day.## Hi there 👋
+I’m a huge football fan who also loves tech, anime, and learning new skills every day.
 
 <!--
 **KyvalWaysome/KyvalWaysome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
