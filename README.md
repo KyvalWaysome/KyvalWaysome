@@ -20,9 +20,6 @@ Data cleaning tips, Excel functions, starting data analysis, or managing beginne
 ⚡ Fun fact
 I love breaking down messy datasets and turning them into something simple and readable.
 
-If you want, I can also format it with badges or a more colorful layout.
-
-ChatGPT can make mistakes. Check important info.
 
 <!--
 **KyvalWaysome/KyvalWaysome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
