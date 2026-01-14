@@ -1,49 +1,28 @@
-About ME:
+ABOUT ME
 
 👋 Hi there, I'm Kyval Waysome
 
-Aspiring Data Analyst / Data Scientist
+🌱 I am currently working on
+Data cleaning projects, exploratory analysis, portfolio datasets, and learning how to build dashboards with Python/SQL.
 
-I’m a Computer Science student passionate about using data to solve real-world problems. I enjoy cleaning messy datasets, building dashboards, and uncovering insights through analytics. Currently, I'm focused on strengthening my skills in Python, SQL, and data visualization.
+🤝 I’m looking to collaborate on
+Beginner-friendly analytics projects, visualization dashboards (Excel/Power BI), and open data analysis.
 
-📘 What I’m Currently Learning
+🧠 I’m looking for help with
+Improving SQL queries, structuring analytics projects, and building better data visualizations.
 
-Python (Pandas, NumPy, Matplotlib)
+🌱 I’m currently learning
+Python (Pandas, NumPy), SQL, data storytelling, Git/GitHub, and dashboard/report creation.
 
-SQL for analytics
+💬 Ask me about
+Data cleaning tips, Excel functions, starting data analysis, or managing beginner projects.
 
-Data visualization & dashboard design
+⚡ Fun fact
+I love breaking down messy datasets and turning them into something simple and readable.
 
-Git/GitHub workflows
+If you want, I can also format it with badges or a more colorful layout.
 
-🧠 What I’m Working On
-
-Data cleaning and exploratory analysis projects
-
-Personal portfolio datasets (soda data, crime rate analysis, sales data)
-
-Building a strong GitHub presence
-
-🤝 I’m Looking to Collaborate On
-
-Data analysis projects
-
-Visualization dashboards (Excel, Power BI)
-
-Open-source Python projects
-
-💬 Ask Me About
-
-Data cleaning and Excel functions
-
-Getting started in data analysis
-
-Study/work productivity tips for beginners
-
-
-⚡ Fun Fact
-
-I’m a huge football fan who also loves tech, anime, and learning new skills every day.
+ChatGPT can make mistakes. Check important info.
 
 <!--
 **KyvalWaysome/KyvalWaysome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
